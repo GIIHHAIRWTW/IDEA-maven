@@ -10,5 +10,6 @@ public class test {
         c2.setWeight(10.0);
         c2.setHeight(22.0);
         System.out.println(c1+"\n"+c2);
+        c1.ablity();
     }
 }
