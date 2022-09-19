@@ -1,6 +1,6 @@
 public class Cat extends Animal {
     void ablity(){
-        System.out.println("I can catch mouse!");
+        System.out.println(this.name+" can catch mouse!");
     }
 
     public Cat() {
