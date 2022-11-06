@@ -1,0 +1,11 @@
+127.0.0.1 - - [10/Oct/2022:21:58:44 +0800] "GET /Tomcat-Demo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [10/Oct/2022:21:58:44 +0800] "GET /Tomcat-Demo/ HTTP/1.1" 404 975 http-bio-8080-exec-2 17
+127.0.0.1 - - [10/Oct/2022:21:58:45 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+127.0.0.1 - - [10/Oct/2022:21:58:52 +0800] "GET /Tomcat-Demo/hello.jsp HTTP/1.1" 500 2426 http-bio-8080-exec-4 547
+127.0.0.1 - - [10/Oct/2022:21:59:23 +0800] "GET /Tomcat-Demo HTTP/1.1" 302 - http-bio-8080-exec-5 0
+127.0.0.1 - - [10/Oct/2022:21:59:23 +0800] "GET /Tomcat-Demo/ HTTP/1.1" 404 975 http-bio-8080-exec-6 3
+127.0.0.1 - - [10/Oct/2022:21:59:25 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0
+127.0.0.1 - - [10/Oct/2022:21:59:30 +0800] "GET /Tomcat-Demo/hello.jsp HTTP/1.1" 500 2426 http-bio-8080-exec-8 67
+127.0.0.1 - - [10/Oct/2022:22:02:54 +0800] "GET /Tomcat-Demo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [10/Oct/2022:22:02:54 +0800] "GET /Tomcat-Demo/ HTTP/1.1" 404 975 http-bio-8080-exec-2 46
+127.0.0.1 - - [10/Oct/2022:22:03:00 +0800] "GET /Tomcat-Demo/hello.jsp HTTP/1.1" 500 2426 http-bio-8080-exec-3 464

@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="IDEA-maven" />
+        <module name="Tomcat-Demo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jsp-demo" target="18" />
+      <module name="jsp-demo1" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>

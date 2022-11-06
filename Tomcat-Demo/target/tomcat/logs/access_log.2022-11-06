@@ -1,0 +1,4 @@
+127.0.0.1 - - [06/Nov/2022:19:27:34 +0800] "GET / HTTP/1.1" 200 177 http-bio-80-exec-1 129
+127.0.0.1 - - [06/Nov/2022:19:27:34 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-2 4
+127.0.0.1 - - [06/Nov/2022:19:27:52 +0800] "GET /a.html HTTP/1.1" 200 167 http-bio-80-exec-3 10
+127.0.0.1 - - [06/Nov/2022:19:28:04 +0800] "GET /index.jsp HTTP/1.1" 200 177 http-bio-80-exec-4 2

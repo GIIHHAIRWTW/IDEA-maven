@@ -1,0 +1,8 @@
+127.0.0.1 - - [18/Oct/2022:11:50:40 +0800] "GET / HTTP/1.1" 200 102 http-bio-80-exec-1 159
+127.0.0.1 - - [18/Oct/2022:11:50:41 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-2 4
+127.0.0.1 - - [18/Oct/2022:11:52:31 +0800] "GET / HTTP/1.1" 200 102 http-bio-80-exec-4 825
+127.0.0.1 - - [18/Oct/2022:11:52:32 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-5 2
+127.0.0.1 - - [18/Oct/2022:11:53:51 +0800] "GET / HTTP/1.1" 200 176 http-bio-80-exec-7 180
+127.0.0.1 - - [18/Oct/2022:11:53:52 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-8 3
+127.0.0.1 - - [18/Oct/2022:11:54:04 +0800] "GET / HTTP/1.1" 200 177 http-bio-80-exec-10 137
+127.0.0.1 - - [18/Oct/2022:11:54:05 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-10 1
